@@ -1,0 +1,34 @@
+# NPM
+npm-debug.log
+node_modules
+
+# Bower
+public/components
+
+# Deployd
+.dpd
+data
+!*/data
+!modules/*/tags
+
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# OSX Thumbnails
+._*
+
+# OSX Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Linux
+*~
+
+# Vim
+.*.s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist

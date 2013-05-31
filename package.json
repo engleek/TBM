@@ -1,0 +1,17 @@
+{
+  "name": "BTM",
+  "version": "0.0.0",
+  "description": "Modern successor to BibTexManager.",
+  "main": "app.js",
+  "repository": "",
+  "author": "",
+  "licenses": [
+    {
+      "type": "BSD",
+      "url": "http://opensource.org/licenses/BSD-2-Clause"
+    }
+  ],
+  "dependencies": {
+    "deployd": "~0.6.10"
+  }
+}

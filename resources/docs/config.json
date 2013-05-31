@@ -1,0 +1,21 @@
+{
+	"type": "Collection",
+	"properties": {
+		"title": {
+			"name": "title",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "title",
+			"order": 0
+		},
+		"authors": {
+			"name": "authors",
+			"type": "array",
+			"typeLabel": "array",
+			"required": true,
+			"id": "authors",
+			"order": 1
+		}
+	}
+}

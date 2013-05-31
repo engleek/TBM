@@ -1,0 +1,2 @@
+Successor to BibTexManager
+==========================
